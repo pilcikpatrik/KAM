@@ -393,7 +393,7 @@ body {
 
 /* timeline of slide animation */
 .progress_bar.active {
-  animation: progress 10s ease-in;
+  animation: progress 10s linear;
 }
 
 @keyframes progress {
